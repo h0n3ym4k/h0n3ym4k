@@ -7,12 +7,12 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 
-i used to weekly submit fedora vanilla kernel scripted tests result which lives inside my home kvm
-and monthly gentoo text-mode,gnome-without-systemd update
-and monthly proxmox-ve update
-and ubuntu stable update
-and ubuntu unstable os upgrade version-wise around quarterly
-and try to build vyos at times
+i used to weekly submit fedora vanilla kernel scripted tests result which lives inside my home kvm\
+and monthly gentoo text-mode,gnome-without-systemd update\
+and monthly proxmox-ve update\
+and ubuntu stable update\
+and ubuntu unstable os upgrade version-wise around quarterly\
+and try to build vyos at times\
 
 - 🌱 I’m currently learning ...
 
@@ -36,8 +36,8 @@ email is always welcome
 
 - 😄 Pronouns: ...
 
-it is it or I.T.
-I.T. is info tech or intelligent tech
+it is it or I.T.\
+I.T. is info tech or intelligent tech\
 
 - ⚡ Fun fact: ...
 
