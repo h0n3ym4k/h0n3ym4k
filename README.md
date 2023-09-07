@@ -13,10 +13,13 @@ and monthly proxmox-ve update\
 and ubuntu stable update\
 and ubuntu unstable os upgrade version-wise around quarterly\
 and try to build vyos at times\
+and fedora kernel vanilla/mainline test\
 
 - 🌱 I’m currently learning ...
 
-i m currently preparing my rust programming journey
+i m currently preparing my rust programming journey\
+rust is incompatible with my goals\
+AI with py/thon/script and (w)asm-wasi and some C
 
 - 👯 I’m looking to collaborate on ...
 
