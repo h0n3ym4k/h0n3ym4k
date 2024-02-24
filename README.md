@@ -45,3 +45,6 @@ I.T. is info tech or intelligent tech\
 - ⚡ Fun fact: ...
 
 i m fat and simple
+
+[myself page 1](https://h0n3ym4k.github.io)
+[myself page 2](https://98036119lmak.ftp.sh)
