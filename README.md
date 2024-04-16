@@ -48,3 +48,4 @@ i m fat and simple
 
 [myself page 1](https://h0n3ym4k.github.io)
 [myself page 2](https://98036119lmak.ftp.sh)
+[Gentoo build log](https://h0n3ym4k.github.io/portage-build-log)
