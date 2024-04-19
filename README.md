@@ -40,7 +40,7 @@ email is always welcome
 - 😄 Pronouns: ...
 
 it is it or I.T.\
-I.T. is info tech or intelligent tech\
+I.T. is info tech or intelligent tech
 
 - ⚡ Fun fact: ...
 
