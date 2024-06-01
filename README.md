@@ -47,7 +47,9 @@ I.T. is info tech or intelligent tech
 i m fat and simple
 
 [myself page 1](https://h0n3ym4k.github.io)
+
 [myself page 2](https://98036119lmak.ftp.sh)
+
 [Gentoo build log](https://h0n3ym4k.github.io/portage-build-log)
 
 ![my fav bike](https://www.kawasaki.eu/content/dam/products/pim/gallery/nin/Resource_299268_24MY_Ninja_ZX-4RR_40th_Anniversary_Edition_GN2_STY.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.png)
